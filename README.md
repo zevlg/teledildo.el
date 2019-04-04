@@ -1,2 +1,2 @@
 # teledildo.el
-Operate your girlfriend's tildo using Emacs via Telegram
+Operate your girlfriend's dildo using Emacs via Telegram
